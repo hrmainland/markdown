@@ -2,4 +2,4 @@
 
 this is a test
 
-I wrote this in obsidian
+I wrote this in github
