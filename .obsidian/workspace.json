@@ -16,13 +16,26 @@
                 "file": "test canvas.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": 30,
                   "zoom": 0
                 }
               }
             }
+          },
+          {
+            "id": "4937c0b103754992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test canvas.canvas",
+                "file": "New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test canvas.canvas",
+                "file": "New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,16 +141,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test canvas.canvas"
+                "file": "New Note.md"
               }
             }
+          },
+          {
+            "id": "257296e43a1a1456",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +167,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40e0da2b990d71d4",
+  "active": "4937c0b103754992",
   "lastOpenFiles": [
     "test canvas.canvas",
-    "test.md"
+    "New Note.md",
+    "test.md",
+    "2024-10-15.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
