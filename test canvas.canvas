@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"af52e5b6948814aa","type":"text","text":"Test 123\n","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"af52e5b6948814ab","type":"text","hello":"Test 123\n","x":-100,"y":30,"width":40,"height":60,"text":""},
-		{"id":"f4f8c16b7158a103","type":"text","hello":"Test 123\n","text":"This is a fourth node!","x":40,"y":90,"width":280,"height":90}
+		{"id":"f4f8c16b7158a103","type":"text","hello":"Test 123\n","text":"This is a changed node!","x":40,"y":90,"width":280,"height":90}
 	],
 	"edges":[]
 }
