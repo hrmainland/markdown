@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Note.md",
+                "file": "test canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Note.md",
+                "file": "test canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Note.md"
+                "file": "test canvas.canvas"
               }
             }
           },
@@ -171,10 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4937c0b103754992",
+  "active": "438d840fbee20a8e",
   "lastOpenFiles": [
-    "test canvas.canvas",
     "New Note.md",
+    "test canvas.canvas",
     "test.md",
     "2024-10-15.md",
     "Untitled 1.canvas",
